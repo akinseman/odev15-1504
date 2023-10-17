@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\odev15-1504\odev15-1504\obj\Debug\odev15-1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\odev15-1504\odev15-1504\obj\Debug\odev15-1504.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\odev15-1504\odev15-1504\obj\Debug\odev15_1504.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\odev15-1504\odev15-1504\obj\Debug\odev15_1504.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\odev15-1504\odev15-1504\obj\Debug\odev15-1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\semanurakın\odev15-1504\odev15-1504\obj\Debug\odev15-1504.csproj.CoreCompileInputs.cache
